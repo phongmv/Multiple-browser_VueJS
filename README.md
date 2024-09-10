@@ -2,7 +2,7 @@ Project Name: Multiple Browser
 
 This small project is interesting; it helps me learn how to interact with the browser screen.
 
-Preview: ![Uploading Screenshot 2024-09-10 at 1.25.31 PM.png…]()
+![Image Description]() <img width="1173" alt="Screenshot 2024-09-10 at 1 25 31 PM" src="https://github.com/user-attachments/assets/d678c281-8489-4ca0-ae62-49e2204e777d">
 
 
 ## Setup
