@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+Project Name: Multiple Browser
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This small project is interesting; it helps me learn how to interact with the browser screen.
+
+Preview: ![Uploading Screenshot 2024-09-10 at 1.25.31 PM.png…]()
+
 
 ## Setup
 
@@ -72,4 +75,3 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
