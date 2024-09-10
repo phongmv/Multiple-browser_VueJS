@@ -1,5 +1,6 @@
 <template>
     <div class="container">
+      <h2>Duplicated more your browser and exit full screen mode, resizing browser</h2>
       <div class="content">
         <img src="~/assets/img/songoku.jpeg" alt="...">
       </div>
@@ -7,6 +8,8 @@
 
 </template>
 <script setup>
+
+
 onMounted(() => {
   tick()
 })
@@ -38,6 +41,7 @@ const getTransform = () => {
   const contentY = screenCenterY - (contentHeight / 2);
   content.style.transform = `translate(${-(screenX - contentX)}px, ${-(screenY - contentY)}px)`
 }
+
 </script>
 
 <style  scoped>
